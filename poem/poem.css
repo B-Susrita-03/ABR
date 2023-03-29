@@ -22,6 +22,14 @@
   transform: translate(-50%, -50%);
   color: black;
 }
+
 body, html {
     height:100%;
+}
+
+.bg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
 }
