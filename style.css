@@ -1,5 +1,5 @@
 body {
-  background-color: #F4C7AB
+  background-color: whitesmoke;
 }
 
 body, html {
@@ -51,9 +51,10 @@ h1#slide {
   animation-duration: 3s;
   animation-fill-mode: forwards;
   position: fixed;
-  font-size: 5em;
+  font-size: 6em;
   font-weight: bold;
   text-align: center;
+  color: mediumvioletred;
 }
 
 @keyframes vis {
